@@ -1,3 +1,3 @@
 # alx-pre_course
-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
-https://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@github.com/jjacobstech/alx-pre_course.git
+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
+https://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@github.com/jjacobstech/alx-pre_course.git
